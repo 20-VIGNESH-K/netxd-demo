@@ -1,7 +1,7 @@
 # netxd-demo
 # git learning
 git clone <repository>
-# list of got commands
+# list of git commands
 git add --all
 
 git add<filepath/filename>
